@@ -19,7 +19,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * Include widget file and register widget class.
  *
- * @author multanishebaz@gmail.com
+ * @author samfalese@gmail.com
  * @since 1.0.0
  * @param \Elementor\Widgets_Manager $widgets_manager Elementor widgets manager.
  * @return void
