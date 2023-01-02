@@ -89,7 +89,7 @@ class Elementor_Selective_Post_Lisitngs_Widget extends \Elementor\Widget_Base {
 	 *
 	 * Retrieve the list of keywords the oEmbed widget belongs to.
 	 *
-	 * @author multanishebaz@gmail.com
+	 * @author Sam
 	 * @since 1.0.0
 	 * @access public
 	 * @return array Widget keywords.
@@ -103,7 +103,7 @@ class Elementor_Selective_Post_Lisitngs_Widget extends \Elementor\Widget_Base {
 	 *
 	 * Add input fields to allow the user to customize the widget settings.
 	 *
-	 * @author multanishebaz@gmail.com
+	 * @author Sam
 	 * @since 1.0.0
 	 * @access protected
 	 */
@@ -145,7 +145,7 @@ class Elementor_Selective_Post_Lisitngs_Widget extends \Elementor\Widget_Base {
 	 *
 	 * Written in PHP and used to generate the final HTML.
 	 *
-	 * @author multanishebaz@gmail.com
+	 * @author Sam
 	 * @since 1.0.0
 	 * @access protected
 	 */
