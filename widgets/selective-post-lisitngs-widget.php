@@ -61,7 +61,7 @@ class Elementor_Selective_Post_Lisitngs_Widget extends \Elementor\Widget_Base {
 	 *
 	 * Retrieve a URL where the user can get more information about the widget.
 	 *
-	 * @author multanishebaz@gmail.com
+	 * @author Sam
 	 * @since 1.0.0
 	 * @access public
 	 * @return string Widget help URL.
@@ -75,7 +75,7 @@ class Elementor_Selective_Post_Lisitngs_Widget extends \Elementor\Widget_Base {
 	 *
 	 * Retrieve the list of categories the oEmbed widget belongs to.
 	 *
-	 * @author multanishebaz@gmail.com
+	 * @author Sam
 	 * @since 1.0.0
 	 * @access public
 	 * @return array Widget categories.
