@@ -19,7 +19,6 @@ class Elementor_Selective_Post_Lisitngs_Widget extends \Elementor\Widget_Base {
 	 * Retrieve oEmbed widget name.
 	 *
 	 * @author Sam
-	 az@gmail.com
 	 * @since 1.0.0
 	 * @access public
 	 * @return string Widget name.
