@@ -33,7 +33,7 @@ class Elementor_Selective_Post_Lisitngs_Widget extends \Elementor\Widget_Base {
 	 *
 	 * Retrieve oEmbed widget title.
 	 *
-	 * @author multanishebaz@gmail.com
+	 * @author Sam
 	 * @since 1.0.0
 	 * @access public
 	 * @return string Widget title.
