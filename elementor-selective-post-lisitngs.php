@@ -3,7 +3,7 @@
  * Plugin Name: Elementor Selective Post Lisitngs Widget
  * Description: Select posts and list on front end 
  * Version:     1.0.0
- * Author:      Vishal Soni
+ * Author:      Sam
  * Text Domain: elementor-selective-post-lisitngs-widget
  *
  * Elementor tested up to: 3.5.0
