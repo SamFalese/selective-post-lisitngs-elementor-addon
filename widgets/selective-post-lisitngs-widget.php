@@ -8,7 +8,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * Elementor widget that inserts an embbedable content into the page, from any given URL.
  *
- * @author multanishebaz@gmail.com
+ * @author sam
  * @since 1.0.0
  */
 class Elementor_Selective_Post_Lisitngs_Widget extends \Elementor\Widget_Base {
@@ -18,7 +18,8 @@ class Elementor_Selective_Post_Lisitngs_Widget extends \Elementor\Widget_Base {
 	 *
 	 * Retrieve oEmbed widget name.
 	 *
-	 * @author multanishebaz@gmail.com
+	 * @author multani
+	 az@gmail.com
 	 * @since 1.0.0
 	 * @access public
 	 * @return string Widget name.
